@@ -1,0 +1,33 @@
+body{
+  background-color: antiquewhite;
+}
+a{
+  text-decoration: none;
+  color: teal;
+}
+header{
+  text-align: center;
+}
+.main-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-header{
+  background-color: teal;
+  padding: 10px;
+  margin: 15px;
+}
+.susbisdiary-header{
+  color: gray;
+}
+p {
+  word-spacing: 10px;
+}
+span{
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+li{
+    font-weight: bold;
+}

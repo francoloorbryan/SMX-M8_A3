@@ -1,0 +1,41 @@
+body{
+  background-color: antiquewhite;
+}
+a{
+  text-decoration: none;
+  color: teal;
+}
+header{
+  text-align: center;
+}
+.main-image{
+  position: relative;
+  left: 36%;
+}
+.main-header{
+  background-color: teal;
+  padding: 10px;
+  margin: 15px;
+}
+.susbisdiary-header{
+  color: gray;
+}
+p {
+  word-spacing: 10px;
+}
+span{
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+.pumpkin{
+  padding-left: 10px;
+}
+.black{
+  position: relative;
+  left: 42%;
+}
+.presentation{
+  position: relative;
+  left: 30%;
+  margin-top: 10px;
+}
